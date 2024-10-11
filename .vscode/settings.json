@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.qmd": "markdown",
+        "*.md": "markdown",
+        "string": "cpp",
+        "iostream": "cpp"
+    },
+    // "cmake.sourceDirectory": "/home/ali21/cpp/08_3_project "
+}
